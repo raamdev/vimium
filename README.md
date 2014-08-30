@@ -117,6 +117,11 @@ map <c-x>o nextFrame
 # Similar to Emacs `pop-global-mark`.
 # Can't use `<c-<space>>` it conflicts w/ Chrome.
 # In Chrome, `<space>` scrolls the current document.
+#------------------------------------------------------------------
+# NOTE: both of these require that you enter a letter
+# that you want to associate with a Vimium mark.
+# e.g. `<c-@>` `a`; and to return: `<c-x><c-@>` `a`.
+#------------------------------------------------------------------
 map <c-@> Marks.activateCreateMode
 map <c-x><c-@> Marks.activateGotoMode
 
