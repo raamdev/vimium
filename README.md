@@ -3,7 +3,7 @@ This is a **full** set of key bindings (as of [Vimium](http://vimium.github.io/)
 
 _**Commented Shortcuts:** There are a few Emacs-style shortcuts that are simply not possible in Vimium. All of my shortcuts (including those which were not possible; i.e. where I used a decent alternative) have been commented below. This should help to clarify my rationale._
 
-_**Compatibility:** All of these shortcuts were tested on Mac OS X (Mavericks). Please note that all of my shortcuts operate under the assumption that your Emacs Meta key is the `⌥` Alt/Option key. This really was my only choice, because the `⌘` key is already used in Chrome for shortcuts that come built into Chrome itself. Therefore, if you intend to use these shortcuts, I'd highly recommend that you use the `⌥` Alt/Option key as your Emacs Meta key; helps with consistency._
+_**Compatibility:** All of these shortcuts were tested on Mac OS X (Mavericks). Please note that all of my shortcuts operate under the assumption that your Emacs Meta key is the `⌥` Alt/Option key. This really was my only choice, because the `⌘` key is already used in Chrome for shortcuts that come built into Chrome itself. Therefore, if you intend to use these shortcuts, I'd highly recommend that you use the `⌥` Alt/Option key as your Emacs Meta key; helps with consistency. See also: [my ~/.emacs](https://github.com/jaswsinc/emacs)_
 
 
 ```bash
