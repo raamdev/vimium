@@ -54,8 +54,8 @@ map <c-v> scrollFullPageDown
 
 # Identical to Emacs `scroll-(up|down)-line`
 # No KBD shortcut in Emacs by default.
-map <a-]> scrollPageDown
-map <a-[> scrollPageUp
+map <a-}> scrollPageDown
+map <a-{> scrollPageUp
 
 # Identical to Emacs `find-alternate-file`.
 map <c-x><c-v> reload
