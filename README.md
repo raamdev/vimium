@@ -1,4 +1,4 @@
-## My Vimium Key Bindings (Emacs-Style).
+## My Vimium Key Bindings (Emacs-Style)
 
 This is a **full** set of key bindings (as of [Vimium](http://vimium.github.io/) v1.45); covering all Vimium functionality. I have tried to map all Vimium functionality to comparable Emacs functionality (whenever possible). In cases where there is no equivalent, those commands are prefixed by `<c-g>` (indicating (G)oogle Chrome; and because `<c-g>` does not conflict with other Emacs shortcuts at all).
 
