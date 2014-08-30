@@ -126,7 +126,8 @@ map <c-x><c-@> Marks.activateGotoMode
 # NOTE: Vimium doesn't support repeated `<c-s>`.
 # Instead, use `<c-S>` to move to next result.
 #------------------------------------------------------------------
-# NOTE: `<c-S>` may conflict w/ SnagIt™.
+# NOTE: `<c-S>` may conflict w/ SnagIt™. If you run this app,
+# please remap SnagIt™ to resolve this potential conflict.
 #------------------------------------------------------------------
 # NOTE: Vimium requires `<enter>` key
 # before `<c-S>` and `<c-R>` will actually work.
