@@ -1,4 +1,10 @@
 ## My Vimium key bindings (Emacs-style).
+This is a **full** set of key bindings (as of [Vimium](http://vimium.github.io/) v1.45); covering all Vimium functionality. I have tried to map all Vimium functionality to comparable Emacs functionality (whenever possible). In cases where there is no equivalent, those commands are prefixed by `<c-g>` (indicating (G)oogle Chrome; and because `<c-g>` does not conflict with other Emacs shortcuts at all).
+
+_**Commented Shortcuts:** There are a few Emacs-style shortcuts that are simply not possible in Vimium. All of my shortcuts (including those which were not possible; i.e. where I used a decent alternative) have been commented below. This should help to clarify my rationale._
+
+_**Compatibility:** All of these shortcuts were tested on Mac OS X (Mavericks). Please note that all of my shortcuts operate under the assumption that your Emacs Meta key is the `⌥` Alt/Option key. This really was my only choice, because the `⌘` key is already used in Chrome for shortcuts that come built into Chrome itself. Therefore, if you intend to use these shortcuts, I'd highly recommend that you use the `⌥` Alt/Option key as your Emacs Meta key; helps with consistency._
+
 
 ```bash
 #########################################
@@ -21,7 +27,7 @@ unmapAll # Use Emacs-style bindings only.
 # The ⇧ Shift key is not used explicitly. However,
 # all of these keyboard shortcuts are caSe-sensitive.
 # Therefore, `<c-b>` is NOT the same as `<c-B>`.
-# Meaning, the ⇧ Shift key **is** necessary.
+# Meaning, the ⇧ Shift key **is** necessary in some cases.
 
 #########################################
 
